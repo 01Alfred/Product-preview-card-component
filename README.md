@@ -29,7 +29,7 @@ I challenged myself with the Preview card to hone my frontend skills.
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-65lorsnoR8)
+- Solution URL: [Click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 - Live Site URL: [Click here](https://01alfred.github.io/Product-preview-card-component/)
 
 ## My process
