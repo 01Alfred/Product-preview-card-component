@@ -19,11 +19,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Overview
-I challenged myself with the QR Code Component to hone my frontend skills.
+I challenged myself with the Preview card to hone my frontend skills.
 
 ### Screenshot
 
-![QR screenshoot solution](https://raw.githubusercontent.com/01Alfred/QR-code-component/abc34d730f4f5b7c4dbe478b0c93bc684bf9c96c/images/Revised%20Solution.png)
+![QR screenshoot solution](https://github.com/01Alfred/Product-preview-card-component/blob/main/images/preview%20card%20screenshot.png?raw=true)
 
 
 
@@ -44,21 +44,17 @@ I challenged myself with the QR Code Component to hone my frontend skills.
 
 ### What I learned
 
-I initially felt I wouldn't be able to accomplish it. But once I started thinking about what the layout should be, I was able to develop something that was near to the solution.
-MDN documentation aided me along the way.
-
-A few difficulties I encountered: horizontal and vertical item centering.
-How do we center it without the thing bouncing about and shrinking?
+- Learned about how grid could be used to displaced columns and rows.
+- How to set media queries for various screen sizes 
 
 
-```
-- [freeCodeCamp](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/) - Had the snippet from here.
+
 
 
 
 ### Continued development
 
-I need a bit more practice with the flexbox.
+I need a bit more practice with the grid systems.
 
 
 
