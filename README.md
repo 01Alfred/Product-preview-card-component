@@ -44,7 +44,8 @@ I challenged myself with the Preview card to hone my frontend skills.
 
 ### What I learned
 
-- Learned about how grid could be used to displaced columns and rows.
+  Learned about 
+- How grid system could be used to displace columns and rows.
 - How to set media queries for various screen sizes 
 
 
